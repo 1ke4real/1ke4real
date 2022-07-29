@@ -33,7 +33,7 @@
 ### A lilte more about me
 ```javascript
 const mikeLeman = {
-    pronouns: "his",
+    pronouns: "he", "him"
     language: ["Javascript","HTML", "CSS", "Php"],
     frameworkAndTools: ["Nodejs", "Reactjs", "Nextjs", "Bootstrap", "Scss"],
     dataBase: ["mySql", "MongoDb", "PhpMyAdmin"],
