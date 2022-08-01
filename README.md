@@ -5,9 +5,7 @@
 <br />
 
 <div align=center>
-    <a href="https://github.com/1ke4real" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+    
 <a href="https://stackoverflow.com/users/19649535/mike-leman" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>
