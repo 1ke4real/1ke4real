@@ -31,7 +31,9 @@
 - 🤝 How to reach me : `mikeeleman at gmail dot com`
 
 ### Or in your terminal console
-[npx mike-term]
+``` bash
+npx mike-term
+```
 
 ### A lilte more about me
 ```javascript
