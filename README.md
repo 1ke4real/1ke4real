@@ -56,7 +56,7 @@ const mikeLeman = {
     
 </div>
 
-NB : My git hub is still being redesigned*
+<em> NB : My git hub is still being redesigned </em>
 
 
 
