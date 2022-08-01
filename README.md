@@ -30,6 +30,9 @@
 - 👯 I am looking to collaborate with many people
 - 🤝 How to reach me : `mikeeleman at gmail dot com`
 
+### Or in your terminal console
+[npx mike-term]
+
 ### A lilte more about me
 ```javascript
 const mikeLeman = {
