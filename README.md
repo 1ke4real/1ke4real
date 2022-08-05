@@ -30,7 +30,7 @@
 
 ### Or in your terminal console
 ``` bash
-npx mike-term
+npx mike-live
 ```
 
 ### A lilte more about me
