@@ -16,9 +16,7 @@
 
 <br />
 
-<div align="center">
- <img src="https://visitor-badge.glitch.me/badge?page_id=1ke4real&left_color=black&right_color=blue" alt="visitor badge"/>
-</div>
+
 
 #
 
