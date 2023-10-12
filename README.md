@@ -18,12 +18,11 @@
 
 
 
-#
 
-### I am a 20 year old French developer, curious to learn, passionate about code and self-taught.
-- 🔭 I’m currently working on ReactJs and NodeJs
+### I am a French developer passionate about programming, and I stand out for my ability to excel in teamwork..
+- 🔭 I’m currently working on ReactJs and Symfony
 - 🌱 I’m currently learning everityhing
-- 👯 I am looking to collaborate with many people
+- 👯 I am seeking opportunities to collaborate with a diverse range of individuals.
 - 🤝 How to reach me : `mikeeleman at gmail dot com`
 
 ### Or in your terminal console
@@ -43,16 +42,6 @@ const mikeLeman = {
 }
 ```
 
-
-<div align=center>
-
-</br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ke4real)
-    
-</div>
-
-<em> NB : My github is still being redesigned </em>
 
 
 
