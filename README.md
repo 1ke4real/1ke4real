@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&size=100&color=F7F7F7&center=true&vCenter=true&width=1920&height=200&lines=~%24%3A+Mike+Leman)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&pause=1000&random=false&width=435&lines=~%3A+Mike+Leman)](https://git.io/typing-svg)
 
 
 <br />
@@ -35,10 +34,9 @@ npx mike-live
 const mikeLeman = {
     pronouns: "he", "him"
     language: ["Javascript","HTML", "CSS", "Php"],
-    frameworkAndTools: ["Nodejs", "Reactjs", "Nextjs", "Bootstrap", "Scss"],
-    dataBase: ["mySql", "MongoDb", "PhpMyAdmin"],
-    challenge: "I aim to improve my github and focus on React js and Next js"
-
+    frameworkAndTools: ["Reactjs", "Symfony", "Laravel", "TailwindCss", "Material Ui"],
+    dataBase: ["MySql", "Postgresql"],
+    challenge: "I aim to enhance my GitHub presence and concentrate on React.js and Symfony"
 }
 ```
 
