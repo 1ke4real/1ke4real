@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&pause=1000&random=false&width=435&lines=~%3A+Mike+Leman)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&size=100&pause=1000&center=true&random=false&width=1920&height=200&lines=~%3A+Mike+Leman)](https://git.io/typing-svg)
 
 <br />
 
