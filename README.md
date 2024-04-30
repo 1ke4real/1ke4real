@@ -5,11 +5,6 @@
 - 👯 I am seeking opportunities to collaborate with a diverse range of individuals.
 - 🤝 How to reach me : `mikeeleman at gmail dot com`
 
-### Or in your terminal console
-``` bash
-npx mike-live
-```
-
 ### A lilte more about me
 ```javascript
 const mikeLeman = {
